@@ -24,7 +24,7 @@ public class MainApp extends Application {
     @Override
     public void start(Stage primaryStage) {
         this.primaryStage = primaryStage;
-        this.primaryStage.setTitle("AddressApp");
+        this.primaryStage.setTitle("Crack");
         this.primaryStage.getIcons().add(new Image("file:resources/images/address_book_32.png"));
         this.primaryStage.setResizable(false);
         initRootLayout();
