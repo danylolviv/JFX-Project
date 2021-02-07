@@ -17,6 +17,7 @@ public class Person {
     private final IntegerProperty postalCode;
     private final StringProperty city;
     private final ObjectProperty<LocalDate> birthday;
+    private String dang = "happppppiness";
 
     /**
      * Default constructor.
